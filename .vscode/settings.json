@@ -1,0 +1,21 @@
+{
+    "colorize.colorized_colors": [
+        "BROWSERS_COLORS",
+        "HEXA",
+        "ARGB",
+        "RGB",
+        "HSL",
+        "OKLAB",
+        "OKLCH"
+    ],
+    "Colorize.include": [
+        "**/*.json",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.less",
+        "**/*.styl",
+        "**/*.stylus",
+        "**/*.pcss",
+        "**/*.postcss"
+    ],
+}
